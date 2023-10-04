@@ -1,0 +1,12 @@
+/vendor/
+composer.lock
+/.idea
+/.vscode
+.log
+.txt
+.ico
+.example
+.editorconfig
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
